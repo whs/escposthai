@@ -1,6 +1,8 @@
 # ESCPOS Thai printing
 
 [![GoDoc](https://godoc.org/github.com/whs/escposthai?status.svg)](https://godoc.org/github.com/whs/escposthai)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 
 Apparently none exists in open source world, and people just print images instead.
 
@@ -29,3 +31,5 @@ This library assume that the input is a valid formed Thai sequence. Invalid Thai
 ## License
 
 [MIT License](LICENSE)
+
+This project is [unmaintained](http://unmaintained.tech/). You may use it, but issues and pull requests might be ignored.
